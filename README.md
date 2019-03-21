@@ -1,2 +1,2 @@
 # KittiHelper
-process squence data by ROS ,aditional,can save data to rosbag.
+Process squence data by ROS ,aditional,can save data to rosbag.
